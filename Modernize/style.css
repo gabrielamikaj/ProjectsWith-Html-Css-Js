@@ -1,0 +1,108 @@
+.full-container {
+    background-color: rgb(17, 16, 17);
+    width: 99%;
+    height: auto;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+
+.display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.header {
+    background-color: rgba(26, 26, 26, 255);
+}
+
+.text {
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.navigator {
+    background: rgb(81, 81, 81);
+    background: linear-gradient(180deg, rgba(81, 81, 81, 1) 0%, rgba(28, 28, 28, 1) 94%);
+    color: #9fa1a0;
+    width: 100%;
+}
+
+.navlist {
+    justify-content: flex-start;
+}
+
+.element {
+    border-right: groove #9fa1a0 1px;
+    padding: 0px 20px;
+}
+
+#main-photo {
+    width: 100%;
+    height: 700px;
+    border-bottom: #3b3b3b solid 7px;
+}
+
+.firstsection {
+    width: 99%;
+    padding: 10px;
+    background-color: rgba(26, 26, 26, 255);
+}
+
+.comment {
+    margin: 20px 20px 20px 0px;
+}
+
+.left {
+    padding-right: 5px;
+}
+
+
+.orange {
+    color: #e2762a;
+    margin-top: 10px;
+}
+
+.description {
+    color: white;
+    margin-top: 10px;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.emp {
+    font-style: italic;
+    margin-right: 10px;
+}
+
+
+.section {
+    width: 95%;
+    margin: 10px;
+    padding-left: 20px
+}
+
+
+
+.images-ptf {
+    width: 80%;
+    height: 250px;
+    border: #3b3b3b solid 7px;
+
+
+}
+
+.foot {
+    background-color: rgba(26, 26, 26, 255);
+    color: #757673;
+    width: 100%;
+    margin-right: 50px;
+    padding-bottom: 20px;
+    text-align: end;
+
+}
+
+#top {
+    padding-right: 30px;
+}
